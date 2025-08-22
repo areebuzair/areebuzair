@@ -1,6 +1,6 @@
 # J. M Areeb Uzair
 
-![Banner](./images/ASCII_BANNER.gif)
+![Banner](ASCII_BANNER.gif)
 
 ## About Me
 
