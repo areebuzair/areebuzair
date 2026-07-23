@@ -16,9 +16,7 @@ Here are some of the projects I’ve been working on:
 <details>
 <summary><big>Website</big></summary>
 <div style="padding-left: 4vmin">
-My Website portfolio can be seen here:
-
-[areebuzair.github.io](https://areebuzair.github.io)
+My Website portfolio can be seen at [areebuzair.github.io](https://areebuzair.github.io)
 </details>
 <details>
 <summary><big>Blender Addons</big></summary>
@@ -54,7 +52,6 @@ Some of my other repositories:
 <!-- Languages -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 <!-- Frontend -->
