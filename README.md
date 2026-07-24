@@ -1,6 +1,6 @@
 # J. M Areeb Uzair
 
-![Banner](ASCII_BANNER.gif)
+![Banner](https://areebuzair.github.io/areebuzair/ASCII_BANNER.gif)
 
 ## About Me
 
@@ -16,8 +16,9 @@ Here are some of the projects I’ve been working on:
 <details>
 <summary><big>Website</big></summary>
 <div style="padding-left: 4vmin">
-My Website portfolio can be seen at [areebuzair.github.io](https://areebuzair.github.io)
+My Website portfolio can be seen at <a href="https://areebuzair.github.io" target='_blank'>areebuzair.github.io</a>
 </details>
+
 <details>
 <summary><big>Blender Addons</big></summary>
 <div style="padding-left: 4vmin"> 
@@ -67,5 +68,3 @@ Some of my other repositories:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-
-#
