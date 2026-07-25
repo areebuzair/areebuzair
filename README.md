@@ -4,7 +4,14 @@
 
 ## About Me
 
-My name is J. M Areeb Uzair, and I am a Front End Developer, 3D artist, and Programmer. 
+I am a software developer based in Bangladesh. I have been writing code since my days in High School.
+
+I primarily use Python and Javascript, with a focus on Front-end web development with React, Next, Tailwind and Vanilla Web stack.
+
+I am also working with NodeJS and Spring Boot for Back-end development.
+
+Aside from software development, I also work on 3D renders and animations as a hobby.
+                
 
 <!-- ![GitHub followers](https://img.shields.io/github/followers/areebuzair?style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/areebuzair?style=flat-square) -->
@@ -51,19 +58,20 @@ Some of my other repositories:
 ### Skills & Tools
 
 <!-- Languages -->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 <!-- Frontend -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 <!-- Tools -->
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
